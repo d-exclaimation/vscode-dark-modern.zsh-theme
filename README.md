@@ -5,3 +5,6 @@
   <br/>
 </div>
 
+<p align="center">
+  <img src="./screenshot.png" alt="VSCode Dark Modern Zsh Theme Screenshot" width="100%" />
+</p>
